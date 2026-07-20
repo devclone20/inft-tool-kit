@@ -1,0 +1,7 @@
+feat: iNFT Tool-Kit hub — 14 AI agents linked as submodules under agents/
+
+Non-destructive organization: each agent stays its own repo; this hub
+references them as git submodules at pinned commits, plus a navigable
+README index grouped by public/private access.
+
+Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>

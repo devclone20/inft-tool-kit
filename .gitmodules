@@ -1,0 +1,42 @@
+[submodule "agents/iclone"]
+	path = agents/iclone
+	url = https://github.com/devclone20/iclone.git
+[submodule "agents/iIrysframe"]
+	path = agents/iIrysframe
+	url = https://github.com/devclone20/iIrysframe.git
+[submodule "agents/vegeta"]
+	path = agents/vegeta
+	url = https://github.com/devclone20/vegeta.git
+[submodule "agents/doctor-ai20"]
+	path = agents/doctor-ai20
+	url = https://github.com/devclone20/doctor-ai20.git
+[submodule "agents/troubleshooting-acp-agentes-virtual"]
+	path = agents/troubleshooting-acp-agentes-virtual
+	url = https://github.com/devclone20/troubleshooting-acp-agentes-virtual.git
+[submodule "agents/matrix"]
+	path = agents/matrix
+	url = https://github.com/devclone20/matrix.git
+[submodule "agents/supersayatin"]
+	path = agents/supersayatin
+	url = https://github.com/devclone20/supersayatin.git
+[submodule "agents/doctorwho"]
+	path = agents/doctorwho
+	url = https://github.com/devclone20/doctorwho.git
+[submodule "agents/doctor-agent"]
+	path = agents/doctor-agent
+	url = https://github.com/devclone20/doctor-agent.git
+[submodule "agents/atlas_corporation_okx_ai"]
+	path = agents/atlas_corporation_okx_ai
+	url = https://github.com/devclone20/atlas_corporation_okx_ai.git
+[submodule "agents/akita-agent"]
+	path = agents/akita-agent
+	url = https://github.com/devclone20/akita-agent.git
+[submodule "agents/forense-ai"]
+	path = agents/forense-ai
+	url = https://github.com/devclone20/forense-ai.git
+[submodule "agents/akitaai20"]
+	path = agents/akitaai20
+	url = https://github.com/devclone20/akitaai20.git
+[submodule "agents/roadmap.rd"]
+	path = agents/roadmap.rd
+	url = https://github.com/devclone20/roadmap.rd.git
