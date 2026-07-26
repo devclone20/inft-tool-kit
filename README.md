@@ -37,6 +37,12 @@ their histories or breaking their individual iNFT identities.
 | [`agents/troubleshooting-acp-agentes-virtual`](agents/troubleshooting-acp-agentes-virtual) | Troubleshooting guide for Virtuals ACP agents. |
 | [`agents/roadmap.rd`](agents/roadmap.rd) | Roadmap / planning notes. |
 
+## Tools
+
+| Tool | What it is |
+|---|---|
+| [`tools/agentic-teams-pi`](tools/agentic-teams-pi) | Every Pi extension as an in-session slash command — agent teams, chains, subagents, P2P coms, safety rails. One command on, same command off. |
+
 ## How the links work
 
 These are **git submodules**. On GitHub, each `agents/<name>` is a clickable link to

@@ -40,3 +40,6 @@
 [submodule "agents/roadmap.rd"]
 	path = agents/roadmap.rd
 	url = https://github.com/devclone20/roadmap.rd.git
+[submodule "tools/agentic-teams-pi"]
+	path = tools/agentic-teams-pi
+	url = https://github.com/devclone20/agentic-teams-pi.git
